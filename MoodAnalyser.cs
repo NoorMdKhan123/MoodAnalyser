@@ -8,10 +8,22 @@ namespace MoodAnalyserAssignment
         {
          
         }
+
+        public MoodAnalyser()
+        {
+
+           
+
+        }
+        string message;
+        public MoodAnalyser(string message)
+        {
+            this.message = message;
+        }
         public string AnalyseMood()
         {
             string mood = "I am in sad mood";
-            if (mood.Contains("any"))
+            if (mood.Contains("sad"))
             {
                 return "SAD";
             }
