@@ -23,7 +23,7 @@ namespace MoodAnalyserAssignment
         public string AnalyseMood()
         {
             string mood = "I am in sad mood";
-            if (mood.Contains("sad"))
+            if (mood.Contains("happy"))
             {
                 return "SAD";
             }
