@@ -1,0 +1,13 @@
+C:\Users\md048\source\repos\MoodAnalyserAssignment\bin\Debug\netcoreapp3.1\MoodAnalyserAssignment.exe
+C:\Users\md048\source\repos\MoodAnalyserAssignment\bin\Debug\netcoreapp3.1\MoodAnalyserAssignment.deps.json
+C:\Users\md048\source\repos\MoodAnalyserAssignment\bin\Debug\netcoreapp3.1\MoodAnalyserAssignment.runtimeconfig.json
+C:\Users\md048\source\repos\MoodAnalyserAssignment\bin\Debug\netcoreapp3.1\MoodAnalyserAssignment.runtimeconfig.dev.json
+C:\Users\md048\source\repos\MoodAnalyserAssignment\bin\Debug\netcoreapp3.1\MoodAnalyserAssignment.dll
+C:\Users\md048\source\repos\MoodAnalyserAssignment\bin\Debug\netcoreapp3.1\MoodAnalyserAssignment.pdb
+C:\Users\md048\source\repos\MoodAnalyserAssignment\obj\Debug\netcoreapp3.1\MoodAnalyserAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\md048\source\repos\MoodAnalyserAssignment\obj\Debug\netcoreapp3.1\MoodAnalyserAssignment.AssemblyInfoInputs.cache
+C:\Users\md048\source\repos\MoodAnalyserAssignment\obj\Debug\netcoreapp3.1\MoodAnalyserAssignment.AssemblyInfo.cs
+C:\Users\md048\source\repos\MoodAnalyserAssignment\obj\Debug\netcoreapp3.1\MoodAnalyserAssignment.csproj.CoreCompileInputs.cache
+C:\Users\md048\source\repos\MoodAnalyserAssignment\obj\Debug\netcoreapp3.1\MoodAnalyserAssignment.dll
+C:\Users\md048\source\repos\MoodAnalyserAssignment\obj\Debug\netcoreapp3.1\MoodAnalyserAssignment.pdb
+C:\Users\md048\source\repos\MoodAnalyserAssignment\obj\Debug\netcoreapp3.1\MoodAnalyserAssignment.genruntimeconfig.cache
