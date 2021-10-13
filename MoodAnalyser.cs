@@ -9,12 +9,7 @@ namespace MoodAnalyserAssignment
          
         }
 
-        public MoodAnalyser()
-        {
-
-           
-
-        }
+      
         string message;
         public MoodAnalyser(string message)
         {
@@ -22,13 +17,20 @@ namespace MoodAnalyserAssignment
         }
         public string AnalyseMood()
         {
-            string mood = "I am in sad mood";
-            if (mood.Contains("happy"))
+            try
             {
-                return "SAD";
+
+                if (this.message.Contains("sad"))
+                {
+                    return "SAD";
+                }
+                else
+                    return "HAPPY";
             }
-            else
+            catch
+            {
                 return "HAPPY";
+            }
             
         }
     }

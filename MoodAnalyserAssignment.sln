@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoodAnalyserAssignment", "MoodAnalyserAssignment.csproj", "{3DECCAD9-503C-4ED8-8E2D-1C76B322D9FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoodAnalyserAssignment", "MoodAnalyserAssignment.csproj", "{3DECCAD9-503C-4ED8-8E2D-1C76B322D9FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoodAnalyserMSTestProject", "..\MoodAnalyserMSTestProject\MoodAnalyserMSTestProject.csproj", "{7A8030AA-1880-474A-B857-B82EA0704B2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoodAnalyserMSTestProject", "..\MoodAnalyserMSTestProject\MoodAnalyserMSTestProject.csproj", "{7A8030AA-1880-474A-B857-B82EA0704B2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionExample", "..\ReflectionExample\ReflectionExample.csproj", "{306706A6-4951-436A-89DA-175AE748F0E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflection", "..\Reflection\Reflection.csproj", "{F5952425-1525-414D-B34A-CD626B1D9BF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{7A8030AA-1880-474A-B857-B82EA0704B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A8030AA-1880-474A-B857-B82EA0704B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A8030AA-1880-474A-B857-B82EA0704B2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{306706A6-4951-436A-89DA-175AE748F0E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{306706A6-4951-436A-89DA-175AE748F0E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{306706A6-4951-436A-89DA-175AE748F0E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{306706A6-4951-436A-89DA-175AE748F0E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5952425-1525-414D-B34A-CD626B1D9BF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5952425-1525-414D-B34A-CD626B1D9BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5952425-1525-414D-B34A-CD626B1D9BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5952425-1525-414D-B34A-CD626B1D9BF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
