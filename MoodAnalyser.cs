@@ -11,9 +11,6 @@ namespace MoodAnalyserAssignment
 
         public MoodAnalyser()
         {
-
-           
-
         }
         string message;
         public MoodAnalyser(string message)
